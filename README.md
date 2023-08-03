@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @dora-thea
-- 👀 I’m interested in Data Science, ML, Bioinformatics, Deep Learning
 - 🌱 I’m currently learning Python, SQL
 
 <!---
