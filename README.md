@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dora-thea
-- 🌱 I’m currently learning Python, SQL
+- 🌱 I’m currently learning Python, Django and SQL
 
 <!---
 dora-thea/dora-thea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
